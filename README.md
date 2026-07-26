@@ -49,6 +49,7 @@ If you're searching for a **free OpenVPN admin panel**, **OpenVPN user managemen
 Get the installer and set up your OpenVPN management panel in minutes:
 
 👉 **[https://velotun.com/install](https://velotun.com/install)**
+👉 **[Watch Video Guide](https://youtu.be/irfKc8e9WJI)**
 
 Follow the on-page instructions to download and run the installer on your server.
 
