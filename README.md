@@ -11,6 +11,9 @@
 
 [Install Guide](#-installation) · [Features](#-features) · [Free License Keys](#-free-license-key-giveaway) · [Activation](#-how-to-activate-your-license) · [Buy a Key](https://velotun.com/order)
 
+
+![VeloTun Dashboard](valotun_dashboard.png)
+
 </div>
 
 ---
@@ -61,7 +64,7 @@ We're giving away **free VeloTun license keys** so you can try the full platform
 > - Because this is a shared/public list, multiple people activating the **same** key on different servers can cause conflicts or service disruption. For production or long-term use, please [buy a dedicated key](https://velotun.com/order).
 
 <details>
-<summary><strong>📋 Click to view available free license keys</strong></summary>
+<summary><strong>📋 Click to view available free license keys  ============================  </strong></summary>
 
 ```
 knvA2aVoWqZX5EK8ofqY2LHK
